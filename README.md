@@ -126,13 +126,3 @@ Cómo funciona la aplicación
 Autor
 
 Desarrollado por Diego Suarez.
-
-markdown
-
-
-### ¿Cómo usar el README.md?
-- Coloca este archivo README.md en el directorio raíz de tu proyecto.
-- Modifica cualquier información específica (como el nombre del autor o los detalles adicionales) según lo necesites.
-- Asegúrate de que el archivo esté actualizado en cuanto a las versiones de las dependencias que estás utilizando y cualquier cambio en la estructura del proyecto.
-
-Si necesitas algún ajuste adicional o tienes más dudas, avísame. ¡Espero que te sea útil!
