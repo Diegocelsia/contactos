@@ -1,0 +1,21 @@
+# Dependencias de Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Construcciones de Angular
+dist/
+.angular/
+
+# Configuraciones del editor de texto
+.idea/
+.vscode/
+*.sublime-workspace
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno
+.env
