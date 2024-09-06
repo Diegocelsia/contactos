@@ -125,7 +125,7 @@ Cómo funciona la aplicación
 
 Autor
 
-Desarrollado por [Tu Nombre].
+Desarrollado por Diego Suarez.
 
 markdown
 
